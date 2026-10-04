@@ -1,0 +1,12 @@
+# 微信读书 EPUB 排版支持度（真机实测）
+
+> 微信读书 App 对自制 EPUB 的 CSS/排版支持边界：活 / 死 / 灰三态规则，含可复现样张书与真机截图证据。
+
+- 机器可读规则（AI/程序首选）：/docs/style-support.json
+- 人类可读结论（含逐项边界与替代方案）：/docs/weread-epub-style-support.md
+- AI 操作指令：/AGENTS.md
+- 可复现样张书（17 章 / 78 探针）：/epub/weread-epub-style-specimen-1.0.epub
+- 构建与校验脚本：/build/
+- 真机截图证据：/evidence/screenshots/
+
+许可：文档与样张书 CC BY 4.0，脚本 MIT。

@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 构建中间产物（不入库）
+report_*.md
+report_*_filled.md
+*.skeleton.md
+actions_*.json
+table_*.xml
+preview_*.html
+
+# 原始截图（只提交 evidence/screenshots/ 里的精选副本）
+shots*/
