@@ -75,6 +75,7 @@
 | P13 分页失效 | ![P13](evidence/screenshots/p13-pagination.png) |
 | P14 注释与脚注 | ![P14](evidence/screenshots/p14-footnote.png) |
 | P16 危险元素 | ![P16](evidence/screenshots/p16-dangerous-elements.png) |
+| P17 字体族：复刻栈出楷体+棕色，单一字体名无效 | ![P17](evidence/screenshots/p17-ff-quote-replica.png) |
 | N01 无样式基准页 | ![N01](evidence/screenshots/p00-no-style-baseline.png) |
 
 其余见 `evidence/screenshots/` 目录。

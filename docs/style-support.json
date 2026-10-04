@@ -76,7 +76,8 @@
       "platforms": [
         "weread"
       ],
-      "notes": "实测：单独写「汉仪楷体S」或 Kaiti SC/STKaiti/KaiTi 均与基准无差别；整串复刻栈渲染出楷体+棕色（证据截图待补：可用仓库样张书自行复现 P17 字体族章）"
+      "notes": "实测：单独写「汉仪楷体S」或 Kaiti SC/STKaiti/KaiTi 均与基准无差别；整串复刻栈渲染出楷体+棕色。对照截图：p17-ff-baseline.png（基准+单名无效）、p17-ff-system-names.png（系统字体名无效）",
+      "evidence_image": "evidence/screenshots/p17-ff-quote-replica.png"
     },
     {
       "id": "R05",
